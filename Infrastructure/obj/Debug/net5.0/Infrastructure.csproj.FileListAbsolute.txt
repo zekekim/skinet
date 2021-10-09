@@ -1,0 +1,15 @@
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\Core.dll
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\bin\Debug\net5.0\Core.pdb
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\ezeki\Documents\APIs\skinet\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
